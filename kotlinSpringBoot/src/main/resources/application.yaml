@@ -1,0 +1,2 @@
+  jpa:
+    show-sql: true
